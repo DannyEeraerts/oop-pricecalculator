@@ -1,0 +1,43 @@
+[{
+  "id": 0,
+  "name": "Becode",
+  "discount_amount": 26,
+  "discount_id": 0
+},
+{
+"id": 1,
+"name": "Telenet",
+"discount_amount": 33,
+"discount_id": 0
+},
+{
+"id": 2,
+"name": "Belgacom",
+"discount_amount": 5,
+"discount_id": 0
+},
+{
+"id": 3,
+"name": "IBM",
+"discount_amount": 21,
+"discount_id": 0
+},
+{
+"id": 4,
+"name": "Coca-cola",
+"discount_amount": 14,
+"discount_id": 1
+},
+{
+"id": 5,
+"name": "NMBS",
+"discount_amount": 29,
+"discount_id": 0
+},
+{
+"id": 6,
+"name": "De lijn",
+"discount_amount": 14,
+"discount_id": 0
+}
+]

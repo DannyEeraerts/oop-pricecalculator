@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "name": "marketing",
+    "discount_id": 0,
+    "discount_amount": 49,
+    "group_id": 0,
+    "org_id": 1
+  },
+  {
+    "id": 2,
+    "name": "customer support",
+    "discount_id": 0,
+    "discount_amount": 36,
+    "group_id": 1,
+    "org_id": 1
+  },
+  {
+    "id": 3,
+    "name": "hr",
+    "discount_id": 1,
+    "discount_amount": 12,
+    "group_id": 0,
+    "org_id": 1
+  },
+  {
+    "id": 4,
+    "name": "sales",
+    "discount_id": 1,
+    "discount_amount": 7,
+    "group_id": 3,
+    "org_id": 1
+  },
+  {
+    "id": 5,
+    "name": "quality assurance",
+    "discount_id": 0,
+    "discount_amount": 6,
+    "group_id": 0,
+    "org_id": 1
+  },
+  {
+    "id": 6,
+    "name": "hr",
+    "discount_id": 0,
+    "discount_amount": 46,
+    "group_id": 5,
+    "org_id": 2
+  },
+  {
+    "id": 7,
+    "name": "development",
+    "discount_id": 0,
+    "discount_amount": 29,
+    "group_id": 5,
+    "org_id": 1
+  },
+  {
+    "id": 8,
+    "name": "customer support",
+    "discount_id": 1,
+    "discount_amount": 11,
+    "group_id": 5,
+    "org_id": 2
+  },
+  {
+    "id": 9,
+    "name": "customer support",
+    "discount_id": 1,
+    "discount_amount": 13,
+    "group_id": 0,
+    "org_id": 3
+  },
+  {
+    "id": 10,
+    "name": "hr",
+    "discount_id": 0,
+    "discount_amount": 60,
+    "group_id": 9,
+    "org_id": 3
+  },
+  {
+    "id": 11,
+    "name": "development",
+    "discount_id": 0,
+    "discount_amount": 74,
+    "group_id": 9,
+    "org_id": 2
+  },
+  {
+    "id": 13,
+    "name": "communication",
+    "discount_id": 1,
+    "discount_amount": 21,
+    "group_id": 12,
+    "org_id": 1
+  },
+  {
+    "id": 14,
+    "name": "marketing",
+    "discount_id": 1,
+    "discount_amount": 23,
+    "group_id": 13,
+    "org_id": 2
+  },
+  {
+    "id": 15,
+    "name": "hr",
+    "discount_id": 1,
+    "discount_amount": 6,
+    "group_id": 13,
+    "org_id": 4
+  },
+  {
+    "id": 17,
+    "name": "sales",
+    "discount_id": 0,
+    "discount_amount": 73,
+    "group_id": 16,
+    "org_id": 2
+  },
+  {
+    "id": 18,
+    "name": "it department",
+    "discount_id": 1,
+    "discount_amount": 19,
+    "group_id": 17,
+    "org_id": 1
+  },
+  {
+    "id": 19,
+    "name": "customer support",
+    "discount_id": 0,
+    "discount_amount": 42,
+    "group_id": 17,
+    "org_id": 4
+  },
+  {
+    "id": 21,
+    "name": "quality assurance",
+    "discount_id": 0,
+    "discount_amount": 32,
+    "group_id": 20,
+    "org_id": 2
+  },
+  {
+    "id": 22,
+    "name": "hr",
+    "discount_id": 0,
+    "discount_amount": 74,
+    "group_id": 21,
+    "org_id": 5
+  },
+  {
+    "id": 23,
+    "name": "it department",
+    "discount_id": 1,
+    "discount_amount": 14,
+    "group_id": 21,
+    "org_id": 2
+  },
+  {
+    "id": 24,
+    "name": "development",
+    "discount_id": 1,
+    "discount_amount": 2,
+    "group_id": 21,
+    "org_id": 3
+  },
+  {
+    "id": 25,
+    "name": "it department",
+    "discount_id": 1,
+    "discount_amount": 8,
+    "group_id": 20,
+    "org_id": 3
+  },
+  {
+    "id": 26,
+    "name": "marketing",
+    "discount_id": 1,
+    "discount_amount": 13,
+    "group_id": 25,
+    "org_id": 3
+  },
+  {
+    "id": 27,
+    "name": "quality assurance",
+    "discount_id": 1,
+    "discount_amount": 14,
+    "group_id": 25,
+    "org_id": 3
+  },
+  {
+    "id": 28,
+    "name": "customer support",
+    "discount_id": 1,
+    "discount_amount": 18,
+    "group_id": 20,
+    "org_id": 5
+  },
+  {
+    "id": 29,
+    "name": "sales",
+    "discount_id": 1,
+    "discount_amount": 11,
+    "group_id": 28,
+    "org_id": 3
+  },
+  {
+    "id": 30,
+    "name": "quality assurance",
+    "discount_id": 0,
+    "discount_amount": 51,
+    "group_id": 28,
+    "org_id": 4
+  },
+  {
+    "id": 31,
+    "name": "customer support",
+    "discount_id": 1,
+    "discount_amount": 13,
+    "group_id": 28,
+    "org_id": 6
+  },
+  {
+    "id": 33,
+    "name": "sales",
+    "discount_id": 1,
+    "discount_amount": 22,
+    "group_id": 32,
+    "org_id": 4
+  },
+  {
+    "id": 34,
+    "name": "sales",
+    "discount_id": 1,
+    "discount_amount": 6,
+    "group_id": 33,
+    "org_id": 5
+  },
+  {
+    "id": 36,
+    "name": "marketing",
+    "discount_id": 1,
+    "discount_amount": 25,
+    "group_id": 35,
+    "org_id": 4
+  },
+  {
+    "id": 37,
+    "name": "communication",
+    "discount_id": 1,
+    "discount_amount": 20,
+    "group_id": 36,
+    "org_id": 2
+  },
+  {
+    "id": 39,
+    "name": "marketing",
+    "discount_id": 1,
+    "discount_amount": 18,
+    "group_id": 38,
+    "org_id": 5
+  },
+  {
+    "id": 40,
+    "name": "sales",
+    "discount_id": 1,
+    "discount_amount": 14,
+    "group_id": 39,
+    "org_id": 6
+  },
+  {
+    "id": 41,
+    "name": "hr",
+    "discount_id": 1,
+    "discount_amount": 23,
+    "group_id": 38,
+    "org_id": 6
+  },
+  {
+    "id": 42,
+    "name": "marketing",
+    "discount_id": 1,
+    "discount_amount": 10,
+    "group_id": 41,
+    "org_id": 6
+  },
+  {
+    "id": 43,
+    "name": "hr",
+    "discount_id": 0,
+    "discount_amount": 63,
+    "group_id": 41,
+    "org_id": 7
+  },
+  {
+    "id": 44,
+    "name": "quality assurance",
+    "discount_id": 1,
+    "discount_amount": 9,
+    "group_id": 41,
+    "org_id": 5
+  },
+  {
+    "id": 45,
+    "name": "it department",
+    "discount_id": 0,
+    "discount_amount": 33,
+    "group_id": 38,
+    "org_id": 4
+  },
+  {
+    "id": 46,
+    "name": "marketing",
+    "discount_id": 0,
+    "discount_amount": 46,
+    "group_id": 45,
+    "org_id": 7
+  },
+  {
+    "id": 47,
+    "name": "customer support",
+    "discount_id": 1,
+    "discount_amount": 5,
+    "group_id": 38,
+    "org_id": 7
+  },
+  {
+    "id": 48,
+    "name": "communication",
+    "discount_id": 0,
+    "discount_amount": 41,
+    "group_id": 47,
+    "org_id": 3
+  },
+  {
+    "id": 50,
+    "name": "development",
+    "discount_id": 0,
+    "discount_amount": 29,
+    "group_id": 47,
+    "org_id": 4
+  }
+]
