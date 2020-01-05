@@ -9,7 +9,7 @@
 
 require_once 'controller/ProductNames.php';
 require_once 'controller/CustomersNames.php';
-require_once 'controller/ProductView.php';
+require_once 'controller/Processinput.php';
 
 
 ?>
@@ -53,10 +53,10 @@ require_once 'controller/ProductView.php';
                             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link mr-auto" href="#">Organisation & Departments Overview</a>
+                            <a class="nav-link mr-auto" href="category_view.php">Organisation & Departments Overview</a>
                         </li>
                         <li class="nav-item ml-auto">
-                            <a class="nav-link ml-auto" href="#">Login</a>
+                            <a class="nav-link ml-auto" href="login.php">Login</a>
                         </li>
                     </ul>
                 </div>
@@ -117,7 +117,7 @@ require_once 'controller/ProductView.php';
             <?php }?>
         </div>
 
-        <footer class="container fixed-lg-bottom mx-auto row d-flex align-items-center  py-3 mt-2 px-0 ">
+        <footer class="container bg-primary fixed-bottom mx-auto row d-flex align-items-center  py-3 mt-2 px-3 ">
 
             <!-- Grid column -->
             <div class="col-md-6 col-lg-5 text-center text-md-left px-0">

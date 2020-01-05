@@ -9,7 +9,7 @@ require "Departments.php";
 require "Discounts.php";
 require "Organisations.php";
 
-session_start();
+//session_start();
 
     function customerDetails($customer_name){
 
@@ -159,7 +159,7 @@ session_start();
             echo "ID: " . "<strong>" . $productDetails->get_productID() . "</strong>" . "<br>";
             echo "Name: " . "<strong>" . $productDetails->get_productName() . "</strong>" . "<br>";
             echo "Description: " . "<strong>" . $productDetails->get_productDescription() ."</strong>" ."<br>";
-            echo "Number: " ."<strong>" .$number."</strong>" ."<br>";
+            echo "Quantity: " ."<strong>" .$number."</strong>" ."<br>";
             echo "Normal unit price: " . "<strong><del>" . $productDetails->get_productPrice() . " €" . "</strong></del>" ."<br>";
             echo "Total reduced price (with best discount): ". "<strong><span class='text-success '>" .$discountPrice . "</span>" . "<span class='text-success '> €</span></strong>";
         }

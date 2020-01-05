@@ -5,6 +5,7 @@ class customer{
     public $customerName;
     public $customerGroupID;
 
+
     public function __construct($customerId,$customerName,$customerGroupID){
         $this->customerId = $customerId;
         $this->customerName =$customerName;
